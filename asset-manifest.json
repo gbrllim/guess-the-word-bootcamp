@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/guess-the-word-bootcamp/static/css/main.71244708.css",
+    "main.js": "/guess-the-word-bootcamp/static/js/main.560a17bf.js",
+    "static/media/hangbot.png": "/guess-the-word-bootcamp/static/media/hangbot.865dc86b1b75056c6148.png",
+    "static/media/hangsheep0.png": "/guess-the-word-bootcamp/static/media/hangsheep0.be43de327b6d3cfebbec.png",
+    "static/media/hangsheep1.png": "/guess-the-word-bootcamp/static/media/hangsheep1.1069005b98cdb2b9e3fb.png",
+    "static/media/hangsheep2.png": "/guess-the-word-bootcamp/static/media/hangsheep2.31e4a666a03fcc3eb22d.png",
+    "static/media/hangsheep3.png": "/guess-the-word-bootcamp/static/media/hangsheep3.f61d6006a4ace281678d.png",
+    "static/media/hangsheep4.png": "/guess-the-word-bootcamp/static/media/hangsheep4.f0494a19f759fd35c278.png",
+    "static/media/hangsheep5.png": "/guess-the-word-bootcamp/static/media/hangsheep5.fdd14eb97e7ef8f994b3.png",
+    "static/media/hangsheep6.png": "/guess-the-word-bootcamp/static/media/hangsheep6.133f1807cee25528062a.png",
+    "index.html": "/guess-the-word-bootcamp/index.html",
+    "main.71244708.css.map": "/guess-the-word-bootcamp/static/css/main.71244708.css.map",
+    "main.560a17bf.js.map": "/guess-the-word-bootcamp/static/js/main.560a17bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71244708.css",
+    "static/js/main.560a17bf.js"
+  ]
+}
